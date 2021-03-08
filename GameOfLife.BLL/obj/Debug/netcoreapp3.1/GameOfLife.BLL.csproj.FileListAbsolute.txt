@@ -1,0 +1,12 @@
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\bin\Debug\netcoreapp3.1\GameOfLife.BLL.deps.json
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\bin\Debug\netcoreapp3.1\GameOfLife.BLL.dll
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\bin\Debug\netcoreapp3.1\GameOfLife.BLL.pdb
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\bin\Debug\netcoreapp3.1\GameOfLife.DAL.dll
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\bin\Debug\netcoreapp3.1\GameOfLife.DAL.pdb
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\obj\Debug\netcoreapp3.1\GameOfLife.BLL.csprojAssemblyReference.cache
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\obj\Debug\netcoreapp3.1\GameOfLife.BLL.AssemblyInfoInputs.cache
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\obj\Debug\netcoreapp3.1\GameOfLife.BLL.AssemblyInfo.cs
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\obj\Debug\netcoreapp3.1\GameOfLife.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\obj\Debug\netcoreapp3.1\GameOfLife.BLL.csproj.CopyComplete
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\obj\Debug\netcoreapp3.1\GameOfLife.BLL.dll
+C:\Users\ABKH171\source\repos\GameOfLife.BLL\obj\Debug\netcoreapp3.1\GameOfLife.BLL.pdb

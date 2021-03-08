@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GameOfLife.DAL/1.0.0": {
+        "runtime": {
+          "GameOfLife.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameOfLife.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

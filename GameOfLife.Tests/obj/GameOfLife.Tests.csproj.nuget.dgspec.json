@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.Tests\\GameOfLife.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.BLL\\GameOfLife.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.BLL\\GameOfLife.BLL.csproj",
+        "projectName": "GameOfLife.BLL",
+        "projectPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.BLL\\GameOfLife.BLL.csproj",
+        "packagesPath": "C:\\Users\\ABKH171\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ABKH171\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.DAL\\GameOfLife.DAL.csproj": {
+                "projectPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.DAL\\GameOfLife.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.DAL\\GameOfLife.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.DAL\\GameOfLife.DAL.csproj",
+        "projectName": "GameOfLife.DAL",
+        "projectPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.DAL\\GameOfLife.DAL.csproj",
+        "packagesPath": "C:\\Users\\ABKH171\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ABKH171\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.Tests\\GameOfLife.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.Tests\\GameOfLife.Tests.csproj",
+        "projectName": "GameOfLife.Tests",
+        "projectPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.Tests\\GameOfLife.Tests.csproj",
+        "packagesPath": "C:\\Users\\ABKH171\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ABKH171\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.BLL\\GameOfLife.BLL.csproj": {
+                "projectPath": "C:\\Users\\ABKH171\\source\\repos\\QuestionTwo\\OzowConwaysGamesOfLife\\GameOfLife.BLL\\GameOfLife.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

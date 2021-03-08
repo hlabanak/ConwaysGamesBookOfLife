@@ -1,0 +1,9 @@
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\bin\Debug\netcoreapp3.1\GameOfLife.DAL.deps.json
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\bin\Debug\netcoreapp3.1\GameOfLife.DAL.dll
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\bin\Debug\netcoreapp3.1\GameOfLife.DAL.pdb
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\obj\Debug\netcoreapp3.1\GameOfLife.DAL.AssemblyInfoInputs.cache
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\obj\Debug\netcoreapp3.1\GameOfLife.DAL.AssemblyInfo.cs
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\obj\Debug\netcoreapp3.1\GameOfLife.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\obj\Debug\netcoreapp3.1\GameOfLife.DAL.dll
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\obj\Debug\netcoreapp3.1\GameOfLife.DAL.pdb
+C:\Users\ABKH171\source\repos\GameOfLife.DAL\obj\Debug\netcoreapp3.1\GameOfLife.DAL.csprojAssemblyReference.cache

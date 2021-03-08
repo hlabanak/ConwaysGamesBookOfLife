@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GameOfLife.BLL/1.0.0": {
+        "dependencies": {
+          "GameOfLife.DAL": "1.0.0"
+        },
+        "runtime": {
+          "GameOfLife.BLL.dll": {}
+        }
+      },
+      "GameOfLife.DAL/1.0.0": {
+        "runtime": {
+          "GameOfLife.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameOfLife.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameOfLife.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
